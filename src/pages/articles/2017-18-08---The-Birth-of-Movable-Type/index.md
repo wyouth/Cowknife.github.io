@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Johannes Gutenberg: The Birth of Movable Type"
 date: "2017-08-18T22:12:03.284Z"
 layout: post
@@ -106,4 +106,4 @@ A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the 
 
 The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.
 
-It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.
+It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height. -->
