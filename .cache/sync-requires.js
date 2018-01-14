@@ -7,7 +7,7 @@ exports.layouts = {
 }
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/dev-404-page.js")),
   "component---src-templates-page-template-js": preferDefault(require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/page-template.js")),
   "component---src-templates-post-template-js": preferDefault(require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/post-template.js")),
   "component---src-templates-tag-template-js": preferDefault(require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/tag-template.js")),
@@ -20,7 +20,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),
   "about.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/about.json"),
   "layout-index.json": require("/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),

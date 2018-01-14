@@ -2,7 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": require("gatsby-module-loader?name=component---node-modules-gatsby-plugin-offline-app-shell-js!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js"),
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/dev-404-page.js"),
   "component---src-templates-page-template-js": require("gatsby-module-loader?name=component---src-templates-page-template-js!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/page-template.js"),
   "component---src-templates-post-template-js": require("gatsby-module-loader?name=component---src-templates-post-template-js!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/post-template.js"),
   "component---src-templates-tag-template-js": require("gatsby-module-loader?name=component---src-templates-tag-template-js!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/src/templates/tag-template.js"),
@@ -15,7 +15,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("gatsby-module-loader?name=path---offline-plugin-app-shell-fallback!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/about.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/.cache/json/layout-index.json"),
