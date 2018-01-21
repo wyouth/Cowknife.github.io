@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":""},
     },{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

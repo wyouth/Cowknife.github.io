@@ -41,6 +41,7 @@
     "gatsby-source-filesystem": "^1.4.3",
     "gatsby-transformer-remark": "^1.7.18",
     "gatsby-transformer-sharp": "^1.6.13",
+    "gitment": "^0.0.3",
     "lodash": "^4.17.2",
     "react-disqus-comments": "^1.1.1",
     "typeface-roboto": "latest",

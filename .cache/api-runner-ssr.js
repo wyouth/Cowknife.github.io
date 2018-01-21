@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
       options: {"plugins":[],"query":"\n          {\n            site {\n              siteMetadata {\n                url\n                title\n                subtitle\n              }\n            }\n          }\n        ","feeds":[{"query":"\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                  filter: { frontmatter: { layout: { eq: \"post\" }, draft: { ne: true } } }\n                ) {\n                  edges {\n                    node {\n                      html\n                      fields {\n                        slug\n                      }\n                      frontmatter {\n                        title\n                        date\n                        layout\n                        draft\n                        description\n                      }\n                    }\n                  }\n                }\n              }\n            ","output":"/rss.xml"}]},
     },{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
       options: {"plugins":[],"trackingId":""},
     },{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
       options: {"plugins":[],"query":"\n            {\n              site {\n                siteMetadata {\n                  url\n                }\n              }\n              allSitePage(\n                filter: {\n                  path: { regex: \"/^(?!/404/|/404.html|/dev-404-page/)/\" }\n                }\n              ) {\n                edges {\n                  node {\n                    path\n                  }\n                }\n              }\n          }","output":"/sitemap.xml"},
     },{
-      plugin: require('/Users/analyzer/Desktop/tutorial-part-one/lumen-blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('D:/personal/lumen-blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

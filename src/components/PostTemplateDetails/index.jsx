@@ -5,7 +5,21 @@ import moment from 'moment';
 import Disqus from '../Disqus/Disqus';
 import './style.scss';
 
+import 'gitment/style/default.css'
+import Gitment from 'gitment'
+
 class PostTemplateDetails extends React.Component {
+  componentDidMount(){
+      let gitment = new Gitment({
+          owner: '19584919',
+          repo: 'Cowknife.github.io',
+          oauth: {
+              client_id: '68832b9f7539b9d3a9ec',
+              client_secret: 'b92700ed2a5d30b0956a69bfcd528f6fcb916dfd',
+          },
+      })
+      gitment.render('container')
+  }
   render() {
     const { subtitle, author } = this.props.data.site.siteMetadata;
     const post = this.props.data.markdownRemark;
@@ -50,6 +64,7 @@ class PostTemplateDetails extends React.Component {
           </div>
           <div className="post-single__footer">
             {tagsBlock}
+              <div id = "container"></div>
             <hr />
             <p className="post-single__footer-text">
               {subtitle}
