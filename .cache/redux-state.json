@@ -1658,12 +1658,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-21T16:34:12.689Z",
+      "buildTime": "2018-01-21T16:55:56.849Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b701a5d0da596aa80ab7d2d56735536d",
+        "contentDigest": "4f673a243c8175cf92a729130df29e94",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3752,7 +3752,7 @@
       "component": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
-      "updatedAt": 1516552456466,
+      "updatedAt": 1516553760594,
       "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
       "pluginCreatorId": "Plugin gatsby-plugin-offline",
       "componentPath": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
@@ -3761,7 +3761,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6cdbcf4265f25a780692abc728ba8e4f",
+        "contentDigest": "bc098e3d8b275845cb409a11d3be7ff5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3775,7 +3775,7 @@
       "context": {
         "slug": "/about"
       },
-      "updatedAt": 1516552456486,
+      "updatedAt": 1516553760617,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
@@ -3784,7 +3784,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "16ae146e70c6e3ea03911a9429fdffd6",
+        "contentDigest": "6ddce40dfe9e2228199d11a74f1c45bc",
         "owner": "internal-data-bridge"
       }
     },
@@ -3798,7 +3798,7 @@
       "context": {
         "slug": "/contact"
       },
-      "updatedAt": 1516552456487,
+      "updatedAt": 1516553760617,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
@@ -3807,7 +3807,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0538eb9ceec5a13b5fd4a4702a411d3c",
+        "contentDigest": "5eb0ca404de34c0dcda7a9a9692159bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3821,7 +3821,7 @@
       "context": {
         "slug": "/posts/2017_review/"
       },
-      "updatedAt": 1516552456487,
+      "updatedAt": 1516553760618,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/post-template.js",
@@ -3830,7 +3830,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "603037c5b2f35b6a2c4aaf243f6bf464",
+        "contentDigest": "4c943ee480a75296489a5c38767b31c2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3844,7 +3844,7 @@
       "context": {
         "tag": "Review"
       },
-      "updatedAt": 1516552456488,
+      "updatedAt": 1516553760619,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3853,7 +3853,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7549d79fd87ef1bbb0f98b3b96c238f7",
+        "contentDigest": "761db0e8a8df6fc7619cbd8da3fd3262",
         "owner": "internal-data-bridge"
       }
     },
@@ -3867,7 +3867,7 @@
       "context": {
         "tag": "Conclusion"
       },
-      "updatedAt": 1516552456489,
+      "updatedAt": 1516553760619,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3876,7 +3876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fb1ae5a6e3ce33768ea4f0dd98ed33d2",
+        "contentDigest": "b771d3cc944788ac71304a7a0cf0c66d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3890,7 +3890,7 @@
       "context": {
         "tag": "Web Development"
       },
-      "updatedAt": 1516552456489,
+      "updatedAt": 1516553760620,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3899,7 +3899,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "668db3e02fb9e15c326b11495075a6fe",
+        "contentDigest": "9cd4da93884afaa444b2ea4f38d9128e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3913,7 +3913,7 @@
       "context": {
         "tag": "share"
       },
-      "updatedAt": 1516552456490,
+      "updatedAt": 1516553760620,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3922,7 +3922,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75bfb3324e5d26b466d47c75c03e546b",
+        "contentDigest": "0ba04cbf7576d9b6b0f3a6155f397b71",
         "owner": "internal-data-bridge"
       }
     },
@@ -3936,7 +3936,7 @@
       "context": {
         "category": "Conclusion"
       },
-      "updatedAt": 1516552456490,
+      "updatedAt": 1516553760621,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/category-template.js",
@@ -3945,7 +3945,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "73c75cb1c71320830ff8f666e1d6df77",
+        "contentDigest": "329b0fa9c4f111526f4f793eff10642f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3957,7 +3957,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516552456506,
+      "updatedAt": 1516553760637,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -3966,7 +3966,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f452f7bd6920551ea4238d7c4f1c132d",
+        "contentDigest": "51d88e4d80148f2781c427b7ba40f417",
         "owner": "internal-data-bridge"
       }
     },
@@ -3978,7 +3978,7 @@
       "component": "D:/personal/lumen-blog/src/pages/categories.jsx",
       "componentChunkName": "component---src-pages-categories-jsx",
       "context": {},
-      "updatedAt": 1516552456507,
+      "updatedAt": 1516553760638,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/categories.jsx",
@@ -3987,7 +3987,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ff285dee983af8dc8b683bf77cc5dce",
+        "contentDigest": "72d5d4d23e30bed7c3b0bb0f474984ec",
         "owner": "internal-data-bridge"
       }
     },
@@ -3999,7 +3999,7 @@
       "component": "D:/personal/lumen-blog/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1516552456507,
+      "updatedAt": 1516553760639,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/index.jsx",
@@ -4008,7 +4008,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9a433c063679f8e6059282e8d9be2736",
+        "contentDigest": "7063206d5f77065708eea3c87ccb686a",
         "owner": "internal-data-bridge"
       }
     },
@@ -4020,7 +4020,7 @@
       "component": "D:/personal/lumen-blog/src/pages/tags.jsx",
       "componentChunkName": "component---src-pages-tags-jsx",
       "context": {},
-      "updatedAt": 1516552456508,
+      "updatedAt": 1516553760639,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/tags.jsx",
@@ -4029,7 +4029,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b86ad7188aceb48c039b2242838bf4bc",
+        "contentDigest": "d4c3991a311476c5466dd15121b3f15c",
         "owner": "internal-data-bridge"
       }
     },
@@ -4041,7 +4041,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516552456510,
+      "updatedAt": 1516553760642,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -4050,7 +4050,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e15de1d2769622b5bf9011991a4c8e6b",
+        "contentDigest": "0a38181aff68edf91fb148556f6163fe",
         "owner": "internal-data-bridge"
       }
     }
