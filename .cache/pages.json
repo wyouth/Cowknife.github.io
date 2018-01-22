@@ -7,20 +7,6 @@
         "path": "/offline-plugin-app-shell-fallback/"
     },
     {
-        "componentChunkName": "component---src-templates-page-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "about.json",
-        "path": "/about"
-    },
-    {
-        "componentChunkName": "component---src-templates-page-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "contact.json",
-        "path": "/contact"
-    },
-    {
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
@@ -61,6 +47,20 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-conclusion.json",
         "path": "/categories/conclusion/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "about.json",
+        "path": "/about"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "contact.json",
+        "path": "/contact"
     },
     {
         "componentChunkName": "component---src-pages-404-jsx",

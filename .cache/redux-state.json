@@ -1658,12 +1658,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-21T16:55:56.849Z",
+      "buildTime": "2018-01-21T17:05:50.421Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4f673a243c8175cf92a729130df29e94",
+        "contentDigest": "054c02b62d5fb43d0760e0c62b8634b5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1790,88 +1790,6 @@
       "mtime": "2018-01-21T15:51:39.864Z",
       "ctime": "2018-01-21T15:51:39.864Z",
       "birthtime": "2018-01-21T15:51:39.845Z"
-    },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about absPath of file": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1aa61bf72aaeef30e9922b88cd3be00f",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about",
-      "relativePath": "pages/2015-05-01---about",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-01-21T15:51:39.863Z",
-      "accessTime": "2018-01-21T15:51:39.863Z",
-      "changeTime": "2018-01-21T15:51:39.863Z",
-      "birthTime": "2018-01-21T15:51:39.846Z",
-      "root": "D:/",
-      "dir": "D:/personal/lumen-blog/src/pages/pages",
-      "base": "2015-05-01---about",
-      "ext": "",
-      "name": "2015-05-01---about",
-      "relativeDirectory": "pages",
-      "dev": 18467,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 2251799814585092,
-      "atimeMs": 1516549899863.0623,
-      "mtimeMs": 1516549899863.0623,
-      "ctimeMs": 1516549899863.0623,
-      "birthtimeMs": 1516549899846.0166,
-      "atime": "2018-01-21T15:51:39.863Z",
-      "mtime": "2018-01-21T15:51:39.863Z",
-      "ctime": "2018-01-21T15:51:39.863Z",
-      "birthtime": "2018-01-21T15:51:39.846Z"
-    },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact absPath of file": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c84820125d866ce2ba25183429689722",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact",
-      "relativePath": "pages/2015-05-01---contact",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-01-21T15:51:39.871Z",
-      "accessTime": "2018-01-21T15:51:39.871Z",
-      "changeTime": "2018-01-21T15:51:39.871Z",
-      "birthTime": "2018-01-21T15:51:39.864Z",
-      "root": "D:/",
-      "dir": "D:/personal/lumen-blog/src/pages/pages",
-      "base": "2015-05-01---contact",
-      "ext": "",
-      "name": "2015-05-01---contact",
-      "relativeDirectory": "pages",
-      "dev": 18467,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 3940649674849984,
-      "atimeMs": 1516549899871.0837,
-      "mtimeMs": 1516549899871.0837,
-      "ctimeMs": 1516549899871.0837,
-      "birthtimeMs": 1516549899864.0647,
-      "atime": "2018-01-21T15:51:39.871Z",
-      "mtime": "2018-01-21T15:51:39.871Z",
-      "ctime": "2018-01-21T15:51:39.871Z",
-      "birthtime": "2018-01-21T15:51:39.864Z"
     },
     "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection absPath of file": {
       "id": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection absPath of file",
@@ -2118,6 +2036,88 @@
       "mtime": "2018-01-21T15:51:39.842Z",
       "ctime": "2018-01-21T15:51:39.842Z",
       "birthtime": "2018-01-21T15:51:39.835Z"
+    },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about absPath of file": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1aa61bf72aaeef30e9922b88cd3be00f",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about",
+      "relativePath": "pages/2015-05-01---about",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-21T15:51:39.863Z",
+      "accessTime": "2018-01-21T15:51:39.863Z",
+      "changeTime": "2018-01-21T15:51:39.863Z",
+      "birthTime": "2018-01-21T15:51:39.846Z",
+      "root": "D:/",
+      "dir": "D:/personal/lumen-blog/src/pages/pages",
+      "base": "2015-05-01---about",
+      "ext": "",
+      "name": "2015-05-01---about",
+      "relativeDirectory": "pages",
+      "dev": 18467,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799814585092,
+      "atimeMs": 1516549899863.0623,
+      "mtimeMs": 1516549899863.0623,
+      "ctimeMs": 1516549899863.0623,
+      "birthtimeMs": 1516549899846.0166,
+      "atime": "2018-01-21T15:51:39.863Z",
+      "mtime": "2018-01-21T15:51:39.863Z",
+      "ctime": "2018-01-21T15:51:39.863Z",
+      "birthtime": "2018-01-21T15:51:39.846Z"
+    },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact absPath of file": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c84820125d866ce2ba25183429689722",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact",
+      "relativePath": "pages/2015-05-01---contact",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-21T15:51:39.871Z",
+      "accessTime": "2018-01-21T15:51:39.871Z",
+      "changeTime": "2018-01-21T15:51:39.871Z",
+      "birthTime": "2018-01-21T15:51:39.864Z",
+      "root": "D:/",
+      "dir": "D:/personal/lumen-blog/src/pages/pages",
+      "base": "2015-05-01---contact",
+      "ext": "",
+      "name": "2015-05-01---contact",
+      "relativeDirectory": "pages",
+      "dev": 18467,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674849984,
+      "atimeMs": 1516549899871.0837,
+      "mtimeMs": 1516549899871.0837,
+      "ctimeMs": 1516549899871.0837,
+      "birthtimeMs": 1516549899864.0647,
+      "atime": "2018-01-21T15:51:39.871Z",
+      "mtime": "2018-01-21T15:51:39.871Z",
+      "ctime": "2018-01-21T15:51:39.871Z",
+      "birthtime": "2018-01-21T15:51:39.864Z"
     },
     "D:/personal/lumen-blog/src/pages/.DS_Store absPath of file": {
       "id": "D:/personal/lumen-blog/src/pages/.DS_Store absPath of file",
@@ -2405,106 +2405,6 @@
       "birthtime": "2018-01-21T15:51:39.782Z",
       "fields": {
         "slug": "/undefined/"
-      }
-    },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
-      "children": [
-        "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1f64dfcd8df6b1e16aeccd0c69ce9425",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md",
-      "relativePath": "pages/2015-05-01---about/index.md",
-      "extension": "md",
-      "size": 908,
-      "prettySize": "908 B",
-      "modifiedTime": "2018-01-21T15:51:39.863Z",
-      "accessTime": "2018-01-21T15:51:39.863Z",
-      "changeTime": "2018-01-21T15:51:39.863Z",
-      "birthTime": "2018-01-21T15:51:39.863Z",
-      "root": "D:/",
-      "dir": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "pages\\2015-05-01---about",
-      "dev": 18467,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 2251799814585094,
-      "atimeMs": 1516549899863.0623,
-      "mtimeMs": 1516549899863.0623,
-      "ctimeMs": 1516549899863.0623,
-      "birthtimeMs": 1516549899863.0623,
-      "atime": "2018-01-21T15:51:39.863Z",
-      "mtime": "2018-01-21T15:51:39.863Z",
-      "ctime": "2018-01-21T15:51:39.863Z",
-      "birthtime": "2018-01-21T15:51:39.863Z",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "children": [
-        "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "75fb485a177147b98737d1fa6f3e91b9",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md",
-      "relativePath": "pages/2015-05-01---contact/index.md",
-      "extension": "md",
-      "size": 399,
-      "prettySize": "399 B",
-      "modifiedTime": "2018-01-21T15:51:39.872Z",
-      "accessTime": "2018-01-21T15:51:39.871Z",
-      "changeTime": "2018-01-21T15:51:39.872Z",
-      "birthTime": "2018-01-21T15:51:39.871Z",
-      "root": "D:/",
-      "dir": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "pages\\2015-05-01---contact",
-      "dev": 18467,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 3940649674850030,
-      "atimeMs": 1516549899871.0837,
-      "mtimeMs": 1516549899872.087,
-      "ctimeMs": 1516549899872.087,
-      "birthtimeMs": 1516549899871.0837,
-      "atime": "2018-01-21T15:51:39.871Z",
-      "mtime": "2018-01-21T15:51:39.872Z",
-      "ctime": "2018-01-21T15:51:39.872Z",
-      "birthtime": "2018-01-21T15:51:39.871Z",
-      "fields": {
-        "slug": "/contact/"
       }
     },
     "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file": {
@@ -2807,6 +2707,106 @@
         "slug": "/回顾2017/"
       }
     },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "children": [
+        "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1f64dfcd8df6b1e16aeccd0c69ce9425",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md",
+      "relativePath": "pages/2015-05-01---about/index.md",
+      "extension": "md",
+      "size": 908,
+      "prettySize": "908 B",
+      "modifiedTime": "2018-01-21T15:51:39.863Z",
+      "accessTime": "2018-01-21T15:51:39.863Z",
+      "changeTime": "2018-01-21T15:51:39.863Z",
+      "birthTime": "2018-01-21T15:51:39.863Z",
+      "root": "D:/",
+      "dir": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages\\2015-05-01---about",
+      "dev": 18467,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799814585094,
+      "atimeMs": 1516549899863.0623,
+      "mtimeMs": 1516549899863.0623,
+      "ctimeMs": 1516549899863.0623,
+      "birthtimeMs": 1516549899863.0623,
+      "atime": "2018-01-21T15:51:39.863Z",
+      "mtime": "2018-01-21T15:51:39.863Z",
+      "ctime": "2018-01-21T15:51:39.863Z",
+      "birthtime": "2018-01-21T15:51:39.863Z",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "children": [
+        "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "75fb485a177147b98737d1fa6f3e91b9",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md",
+      "relativePath": "pages/2015-05-01---contact/index.md",
+      "extension": "md",
+      "size": 399,
+      "prettySize": "399 B",
+      "modifiedTime": "2018-01-21T15:51:39.872Z",
+      "accessTime": "2018-01-21T15:51:39.871Z",
+      "changeTime": "2018-01-21T15:51:39.872Z",
+      "birthTime": "2018-01-21T15:51:39.871Z",
+      "root": "D:/",
+      "dir": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages\\2015-05-01---contact",
+      "dev": 18467,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674850030,
+      "atimeMs": 1516549899871.0837,
+      "mtimeMs": 1516549899872.087,
+      "ctimeMs": 1516549899872.087,
+      "birthtimeMs": 1516549899871.0837,
+      "atime": "2018-01-21T15:51:39.871Z",
+      "mtime": "2018-01-21T15:51:39.872Z",
+      "ctime": "2018-01-21T15:51:39.872Z",
+      "birthtime": "2018-01-21T15:51:39.871Z",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
     "D:/personal/lumen-blog/src/pages/photo.jpeg absPath of file": {
       "id": "D:/personal/lumen-blog/src/pages/photo.jpeg absPath of file",
       "children": [
@@ -3037,13 +3037,13 @@
         "slug": "/The-Birth-of-Movable-Type/"
       }
     },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
+    "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": {
+      "id": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "parent": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
       "internal": {
-        "content": "---\r\ntitle: \"About me\"\r\nlayout: page\r\npath: \"/about\"\r\n---\r\n\r\nWang wei, now living in wuhan, wuhan zhongsoft tong card information technology co., LTD., is a front-end web engineer who firmly believes that some of them are life, and all of life is a dream.\r\n\r\n![From the basic web page jquery development web page, to the single-page application of the development, to the now very enthusiastic reaction -native development.](./1.jpg)\r\n\r\n*From the basic web page jquery development web page, to the single-page application of the development, to the now very enthusiastic reaction -native development.*\r\n\r\nLove the code of the program, constantly strive for the quality of life and life attitude towards the leading edge technology, like life, enjoy reading time.\r\n\r\nDevelopment of APP: post-car service management software - business opportunity management; Network equipment management system -wifi hacking;",
-        "contentDigest": "8346e65f44807ba1e5ed3b4d1c4d5f43",
+        "content": "<!-- ---\r\ntitle: Perfecting the Art of Perfection\r\ndate: \"2016-09-01T23:46:37.121Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/perfecting-the-art-of-perfection/\"\r\ncategory: \"Design Inspiration\"\r\ntags:\r\n  - \"Handwriting\"\r\n  - \"Learning to write\"\r\ndescription: \"Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\"\r\n---\r\n\r\nQuisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\r\n\r\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\r\n\r\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. \r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. -->",
+        "contentDigest": "f74b631e5c5ee881d1063fde204a5cef",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3051,42 +3051,14 @@
         }
       },
       "frontmatter": {
-        "title": "About me",
-        "layout": "page",
-        "path": "/about",
-        "_PARENT": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
-        "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file"
+        "title": "",
+        "_PARENT": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
+        "parent": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md",
+      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md",
       "fields": {
-        "slug": "/about"
-      }
-    },
-    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
-      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: \"Contact me\"\r\nlayout: page\r\npath: \"/contact\"\r\n---\r\n\r\n如果想交流技术，谈论创业和科技的问题，欢迎邮件联系。\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n",
-        "contentDigest": "ba998d7d98519b11e54d49f17961bcb3",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Contact me",
-        "layout": "page",
-        "path": "/contact",
-        "_PARENT": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-        "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md",
-      "fields": {
-        "slug": "/contact"
+        "slug": "/Perfecting-the-Art-of-Perfection/"
       }
     },
     "D:/personal/lumen-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": {
@@ -3111,30 +3083,6 @@
       "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md",
       "fields": {
         "slug": "/The-Origins-of-Social-Stationery-Lettering/"
-      }
-    },
-    "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": {
-      "id": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
-      "internal": {
-        "content": "<!-- ---\r\ntitle: Perfecting the Art of Perfection\r\ndate: \"2016-09-01T23:46:37.121Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/perfecting-the-art-of-perfection/\"\r\ncategory: \"Design Inspiration\"\r\ntags:\r\n  - \"Handwriting\"\r\n  - \"Learning to write\"\r\ndescription: \"Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\"\r\n---\r\n\r\nQuisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\r\n\r\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\r\n\r\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. \r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. -->",
-        "contentDigest": "f74b631e5c5ee881d1063fde204a5cef",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
-        "parent": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md",
-      "fields": {
-        "slug": "/Perfecting-the-Art-of-Perfection/"
       }
     },
     "D:/personal/lumen-blog/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file >>> MarkdownRemark": {
@@ -3252,6 +3200,58 @@
           "/tags/share/"
         ],
         "categorySlug": "/categories/conclusion/"
+      }
+    },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"About me\"\r\nlayout: page\r\npath: \"/about\"\r\n---\r\n\r\nWang wei, now living in wuhan, wuhan zhongsoft tong card information technology co., LTD., is a front-end web engineer who firmly believes that some of them are life, and all of life is a dream.\r\n\r\n![From the basic web page jquery development web page, to the single-page application of the development, to the now very enthusiastic reaction -native development.](./1.jpg)\r\n\r\n*From the basic web page jquery development web page, to the single-page application of the development, to the now very enthusiastic reaction -native development.*\r\n\r\nLove the code of the program, constantly strive for the quality of life and life attitude towards the leading edge technology, like life, enjoy reading time.\r\n\r\nDevelopment of APP: post-car service management software - business opportunity management; Network equipment management system -wifi hacking;",
+        "contentDigest": "8346e65f44807ba1e5ed3b4d1c4d5f43",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About me",
+        "layout": "page",
+        "path": "/about",
+        "_PARENT": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file",
+        "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md",
+      "fields": {
+        "slug": "/about"
+      }
+    },
+    "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"Contact me\"\r\nlayout: page\r\npath: \"/contact\"\r\n---\r\n\r\n如果想交流技术，谈论创业和科技的问题，欢迎邮件联系。\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n",
+        "contentDigest": "ba998d7d98519b11e54d49f17961bcb3",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact me",
+        "layout": "page",
+        "path": "/contact",
+        "_PARENT": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+        "parent": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md",
+      "fields": {
+        "slug": "/contact"
       }
     },
     "D:/personal/lumen-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp": {
@@ -3752,7 +3752,7 @@
       "component": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
-      "updatedAt": 1516553760594,
+      "updatedAt": 1516554354218,
       "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
       "pluginCreatorId": "Plugin gatsby-plugin-offline",
       "componentPath": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
@@ -3761,53 +3761,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc098e3d8b275845cb409a11d3be7ff5",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about",
-      "component": "D:/personal/lumen-blog/src/templates/page-template.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/about"
-      },
-      "updatedAt": 1516553760617,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
-      "id": "SitePage /about",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6ddce40dfe9e2228199d11a74f1c45bc",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact",
-      "component": "D:/personal/lumen-blog/src/templates/page-template.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/contact"
-      },
-      "updatedAt": 1516553760617,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
-      "id": "SitePage /contact",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5eb0ca404de34c0dcda7a9a9692159bd",
+        "contentDigest": "736cbbf1c5bc8d429ad0fb7f3f07411f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3821,7 +3775,7 @@
       "context": {
         "slug": "/posts/2017_review/"
       },
-      "updatedAt": 1516553760618,
+      "updatedAt": 1516554354240,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/post-template.js",
@@ -3830,7 +3784,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c943ee480a75296489a5c38767b31c2",
+        "contentDigest": "128affc12c20fae3a091b6202aae71d6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3844,7 +3798,7 @@
       "context": {
         "tag": "Review"
       },
-      "updatedAt": 1516553760619,
+      "updatedAt": 1516554354241,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3853,7 +3807,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "761db0e8a8df6fc7619cbd8da3fd3262",
+        "contentDigest": "72b2bceb736d2cd00a0872635642482b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3867,7 +3821,7 @@
       "context": {
         "tag": "Conclusion"
       },
-      "updatedAt": 1516553760619,
+      "updatedAt": 1516554354241,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3876,7 +3830,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b771d3cc944788ac71304a7a0cf0c66d",
+        "contentDigest": "ea6e82c664ac0389af0c0813ffd03535",
         "owner": "internal-data-bridge"
       }
     },
@@ -3890,7 +3844,7 @@
       "context": {
         "tag": "Web Development"
       },
-      "updatedAt": 1516553760620,
+      "updatedAt": 1516554354242,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3899,7 +3853,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9cd4da93884afaa444b2ea4f38d9128e",
+        "contentDigest": "ab76c849d8ba4915cf5625b5d9734f56",
         "owner": "internal-data-bridge"
       }
     },
@@ -3913,7 +3867,7 @@
       "context": {
         "tag": "share"
       },
-      "updatedAt": 1516553760620,
+      "updatedAt": 1516554354242,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3922,7 +3876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ba04cbf7576d9b6b0f3a6155f397b71",
+        "contentDigest": "8aaf4499d9ef62521606c7e0eab3fbad",
         "owner": "internal-data-bridge"
       }
     },
@@ -3936,7 +3890,7 @@
       "context": {
         "category": "Conclusion"
       },
-      "updatedAt": 1516553760621,
+      "updatedAt": 1516554354243,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/category-template.js",
@@ -3945,7 +3899,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "329b0fa9c4f111526f4f793eff10642f",
+        "contentDigest": "4a5b87fd6d133281946fd67085972bb6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "D:/personal/lumen-blog/src/templates/page-template.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/about"
+      },
+      "updatedAt": 1516554354243,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "219a6691186e40498bd717ea7d10abf0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "D:/personal/lumen-blog/src/templates/page-template.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/contact"
+      },
+      "updatedAt": 1516554354244,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c696ffd105f65e284ec8ee4ad3532450",
         "owner": "internal-data-bridge"
       }
     },
@@ -3957,7 +3957,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516553760637,
+      "updatedAt": 1516554354266,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -3966,7 +3966,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51d88e4d80148f2781c427b7ba40f417",
+        "contentDigest": "97102e6ff3b8184a790c4e2987b1acf2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3978,7 +3978,7 @@
       "component": "D:/personal/lumen-blog/src/pages/categories.jsx",
       "componentChunkName": "component---src-pages-categories-jsx",
       "context": {},
-      "updatedAt": 1516553760638,
+      "updatedAt": 1516554354267,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/categories.jsx",
@@ -3987,7 +3987,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72d5d4d23e30bed7c3b0bb0f474984ec",
+        "contentDigest": "03e44eb6cfc09e9bf4d496f27b35da67",
         "owner": "internal-data-bridge"
       }
     },
@@ -3999,7 +3999,7 @@
       "component": "D:/personal/lumen-blog/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1516553760639,
+      "updatedAt": 1516554354268,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/index.jsx",
@@ -4008,7 +4008,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7063206d5f77065708eea3c87ccb686a",
+        "contentDigest": "d51e9554536946d85aac3b4f936ced95",
         "owner": "internal-data-bridge"
       }
     },
@@ -4020,7 +4020,7 @@
       "component": "D:/personal/lumen-blog/src/pages/tags.jsx",
       "componentChunkName": "component---src-pages-tags-jsx",
       "context": {},
-      "updatedAt": 1516553760639,
+      "updatedAt": 1516554354269,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/tags.jsx",
@@ -4029,7 +4029,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d4c3991a311476c5466dd15121b3f15c",
+        "contentDigest": "8d10337ed42a95eed4950101977ee727",
         "owner": "internal-data-bridge"
       }
     },
@@ -4041,7 +4041,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516553760642,
+      "updatedAt": 1516554354270,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -4050,46 +4050,43 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0a38181aff68edf91fb148556f6163fe",
+        "contentDigest": "e26c4e219025d8d575a180e39c13fd74",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8565756de8f617ddff29d994a8919cb3"
+    "PLUGINS_HASH": "e6a5bfa4707b0f5d678f58f73bdfe33d"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/contact",
-        "/about",
-        "/posts/2017_review/",
         "/tags/review/",
+        "/posts/2017_review/",
         "/tags/conclusion/",
         "/tags/web-development/",
         "/tags/share/",
         "/categories/conclusion/",
+        "/about",
+        "/contact",
         "/404/",
         "/categories/",
         "/",
         "/tags/",
         "/404.html"
       ],
-      "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
-        "/contact"
+      "D:\\personal\\lumen-blog\\src\\pages\\articles\\2018-01-13---回顾2017\\index.md absPath of file >>> MarkdownRemark": [
+        "/posts/2017_review/"
       ],
       "D:/personal/lumen-blog/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
         "/about"
       ],
-      "D:\\personal\\lumen-blog\\src\\pages\\articles\\2018-01-13---回顾2017\\index.md absPath of file >>> MarkdownRemark": [
-        "/posts/2017_review/"
+      "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
+        "/contact"
       ]
     },
     "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ],
       "MarkdownRemark": [
         "/tags/review/",
         "/tags/conclusion/",
