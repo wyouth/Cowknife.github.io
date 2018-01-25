@@ -11,7 +11,7 @@ import Gitment from 'gitment'
 class PostTemplateDetails extends React.Component {
   componentDidMount(){
       let gitment = new Gitment({
-          id: "19584919",
+          id: window.location.href,
           owner: 'CowKnife',
           repo: 'Cowknife.github.io',
           oauth: {

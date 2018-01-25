@@ -1658,12 +1658,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-21T17:05:50.421Z",
+      "buildTime": "2018-01-25T08:04:54.371Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "054c02b62d5fb43d0760e0c62b8634b5",
+        "contentDigest": "acfe3ab3f32572b35bd5d946aece52b5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1714,7 +1714,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4521efcfdc73071bdebedac887aa9d39",
+        "contentDigest": "93531c8d2111015d5743cd276f7e1ff4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1724,9 +1724,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-01-21T15:51:39.835Z",
-      "accessTime": "2018-01-21T15:51:39.835Z",
-      "changeTime": "2018-01-21T15:51:39.835Z",
+      "modifiedTime": "2018-01-25T07:37:25.961Z",
+      "accessTime": "2018-01-25T07:37:25.961Z",
+      "changeTime": "2018-01-25T07:37:25.961Z",
       "birthTime": "2018-01-21T15:51:39.781Z",
       "root": "D:/",
       "dir": "D:/personal/lumen-blog/src/pages",
@@ -1741,13 +1741,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2251799814585066,
-      "atimeMs": 1516549899834.9868,
-      "mtimeMs": 1516549899834.9868,
-      "ctimeMs": 1516549899834.9868,
+      "atimeMs": 1516865845961.0178,
+      "mtimeMs": 1516865845961.0178,
+      "ctimeMs": 1516865845961.0178,
       "birthtimeMs": 1516549899780.8435,
-      "atime": "2018-01-21T15:51:39.835Z",
-      "mtime": "2018-01-21T15:51:39.835Z",
-      "ctime": "2018-01-21T15:51:39.835Z",
+      "atime": "2018-01-25T07:37:25.961Z",
+      "mtime": "2018-01-25T07:37:25.961Z",
+      "ctime": "2018-01-25T07:37:25.961Z",
       "birthtime": "2018-01-21T15:51:39.781Z"
     },
     "D:/personal/lumen-blog/src/pages/pages absPath of file": {
@@ -1878,7 +1878,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "656e168b2fd0d2df5ca79d66db4bdcb2",
+        "contentDigest": "d391d1dad19b1c000ca2833435e140c3",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1890,7 +1890,7 @@
       "prettySize": "0 B",
       "modifiedTime": "2018-01-21T15:51:39.809Z",
       "accessTime": "2018-01-21T15:51:39.809Z",
-      "changeTime": "2018-01-21T15:51:39.809Z",
+      "changeTime": "2018-01-25T07:37:56.473Z",
       "birthTime": "2018-01-21T15:51:39.797Z",
       "root": "D:/",
       "dir": "D:/personal/lumen-blog/src/pages/articles",
@@ -1907,11 +1907,11 @@
       "ino": 2251799814585074,
       "atimeMs": 1516549899808.919,
       "mtimeMs": 1516549899808.919,
-      "ctimeMs": 1516549899808.919,
+      "ctimeMs": 1516865876472.9514,
       "birthtimeMs": 1516549899796.8857,
       "atime": "2018-01-21T15:51:39.809Z",
       "mtime": "2018-01-21T15:51:39.809Z",
-      "ctime": "2018-01-21T15:51:39.809Z",
+      "ctime": "2018-01-25T07:37:56.473Z",
       "birthtime": "2018-01-21T15:51:39.797Z"
     },
     "D:/personal/lumen-blog/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type absPath of file": {
@@ -3744,6 +3744,200 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录 absPath of file": {
+      "id": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5fd996ee1f03b9f277623262a5fe1d90",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录",
+      "relativePath": "articles\\2017-06-26--工作心情记录",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-25T07:41:58.207Z",
+      "accessTime": "2018-01-25T07:41:58.207Z",
+      "changeTime": "2018-01-25T07:41:58.207Z",
+      "birthTime": "2018-01-25T07:37:25.961Z",
+      "root": "D:\\",
+      "dir": "D:\\personal\\lumen-blog\\src\\pages\\articles",
+      "base": "2017-06-26--工作心情记录",
+      "ext": "",
+      "name": "2017-06-26--工作心情记录",
+      "relativeDirectory": "articles",
+      "dev": 18467,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6473924464941702,
+      "atimeMs": 1516866118206.9106,
+      "mtimeMs": 1516866118206.9106,
+      "ctimeMs": 1516866118206.9106,
+      "birthtimeMs": 1516865845961.0178,
+      "atime": "2018-01-25T07:41:58.207Z",
+      "mtime": "2018-01-25T07:41:58.207Z",
+      "ctime": "2018-01-25T07:41:58.207Z",
+      "birthtime": "2018-01-25T07:37:25.961Z"
+    },
+    "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file": {
+      "id": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file",
+      "children": [
+        "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c11acd40135a6199dd2baea27cf0cd0e",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md",
+      "relativePath": "articles\\2017-06-26--工作心情记录\\index.md",
+      "extension": "md",
+      "size": 2037,
+      "prettySize": "2.04 kB",
+      "modifiedTime": "2018-01-25T07:50:15.690Z",
+      "accessTime": "2018-01-25T07:49:05.138Z",
+      "changeTime": "2018-01-25T07:50:15.690Z",
+      "birthTime": "2018-01-25T07:41:10.057Z",
+      "root": "D:\\",
+      "dir": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles\\2017-06-26--工作心情记录",
+      "dev": 18467,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849860860612,
+      "atimeMs": 1516866545138,
+      "mtimeMs": 1516866615689.744,
+      "ctimeMs": 1516866615689.744,
+      "birthtimeMs": 1516866070057.0571,
+      "atime": "2018-01-25T07:49:05.138Z",
+      "mtime": "2018-01-25T07:50:15.690Z",
+      "ctime": "2018-01-25T07:50:15.690Z",
+      "birthtime": "2018-01-25T07:41:10.057Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file": {
+      "id": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file",
+      "children": [
+        "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f541a32b882d71378f649ea1d057183b",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg",
+      "relativePath": "articles\\2017-06-26--工作心情记录\\1.jpg",
+      "extension": "jpg",
+      "size": 69603,
+      "prettySize": "69.6 kB",
+      "modifiedTime": "2018-01-25T07:41:58.248Z",
+      "accessTime": "2018-01-25T07:40:40.642Z",
+      "changeTime": "2018-01-25T07:41:58.248Z",
+      "birthTime": "2018-01-25T07:40:40.643Z",
+      "root": "D:\\",
+      "dir": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "articles\\2017-06-26--工作心情记录",
+      "dev": 18467,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849860860604,
+      "atimeMs": 1516866040642,
+      "mtimeMs": 1516866118248,
+      "ctimeMs": 1516866118248.0215,
+      "birthtimeMs": 1516866040643.1245,
+      "atime": "2018-01-25T07:40:40.642Z",
+      "mtime": "2018-01-25T07:41:58.248Z",
+      "ctime": "2018-01-25T07:41:58.248Z",
+      "birthtime": "2018-01-25T07:40:40.643Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file >> ImageSharp": {
+      "id": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f541a32b882d71378f649ea1d057183b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file >>> MarkdownRemark": {
+      "id": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: 工作随笔\r\ndate: \"2017-06-26T09:58:47.052Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/2016_essay/\"\r\ncategory: \"essay\"\r\ntags:\r\n  - \"essay\"\r\n  - \"Web Development\"\r\n  - \"share\"\r\ndescription: \"之前自己工作之后的一些感想，也算一些对生活的吐槽和感想，本该不该放在这里，但是觉得不管怎样是自己的一种记录，还是要放在这里，以后做一种对比记录吧\"\r\n---\r\n\r\n\r\n之前自己工作之后的一些感想，也算一些对生活的吐槽和感想，本该不该放在这里，但是觉得不管怎样是自己的一种记录，还是要放在这里，以后做一种对比记录吧。\r\n\r\n![DJI Phantom 4](./1.jpg)\r\n*DJI Phantom 4*\r\n\r\n### 工作与生活\r\n- 最近一直处于一阵工作认真，一阵沾沾自喜，迷茫与工作和生活的两个问题不断的纠结，想做好多事情，每件事情去做的时候，又缺乏动力，我知道基础很重要要多看书，来沉淀自己，组建自己的技术知识网络，但是还是想的总归是想的，做的总归是做的，做的时候永远是那么无趣。对于这一点我知道对自己打击过大，因为不管给自己和给别人的感觉永远是我工作能力不强和为人做事不够好，对于和他人相处，还是一点尽量不要以自己的情绪和喜好去影像他人吧，慢慢的让自己有所规划\r\n\r\n- 对以后的自己希望有所改变吧，慢慢的沉淀下去，抓住时间，少一些抱怨和空想，其实我知道我在空谈一些事情，但这些确实是我所想的事情，就这些吧。\r\n\r\n- 之前还觉得对与文章这些事情，就像说话一样，只是把说话变成写作就好了，但是真正做起来的时候，还是差距挺大的，以后还是写作这件事情，没有害怕什么，写出来，其实你不是你想象的那么伟大，你=只是在逃避而已\r\n\r\n- 今天想改变一下自己的一指禅写法，发现自己的手还是不行，哈哈哈，改变一下哈，今天写到这里吧，以后再记录",
+        "contentDigest": "b2da05af1eac6c3e39c016e20425fa44",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "工作随笔",
+        "date": "2017-06-26T09:58:47.052Z",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/2016_essay/",
+        "category": "essay",
+        "tags": [
+          "essay",
+          "Web Development",
+          "share"
+        ],
+        "description": "之前自己工作之后的一些感想，也算一些对生活的吐槽和感想，本该不该放在这里，但是觉得不管怎样是自己的一种记录，还是要放在这里，以后做一种对比记录吧",
+        "_PARENT": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file",
+        "parent": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md",
+      "fields": {
+        "slug": "/posts/2016_essay/",
+        "tagSlugs": [
+          "/tags/essay/",
+          "/tags/web-development/",
+          "/tags/share/"
+        ],
+        "categorySlug": "/categories/essay/"
+      }
+    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
@@ -3752,7 +3946,7 @@
       "component": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
-      "updatedAt": 1516554354218,
+      "updatedAt": 1516867497658,
       "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
       "pluginCreatorId": "Plugin gatsby-plugin-offline",
       "componentPath": "D:/personal/lumen-blog/node_modules/gatsby-plugin-offline/app-shell.js",
@@ -3761,7 +3955,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "736cbbf1c5bc8d429ad0fb7f3f07411f",
+        "contentDigest": "9ab93800ff76e821c4a9155f0a56d5bf",
         "owner": "internal-data-bridge"
       }
     },
@@ -3775,7 +3969,7 @@
       "context": {
         "slug": "/posts/2017_review/"
       },
-      "updatedAt": 1516554354240,
+      "updatedAt": 1516867497676,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/post-template.js",
@@ -3784,7 +3978,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "128affc12c20fae3a091b6202aae71d6",
+        "contentDigest": "6605622b8ea4963cfa0a3913daf7bcba",
         "owner": "internal-data-bridge"
       }
     },
@@ -3798,7 +3992,7 @@
       "context": {
         "tag": "Review"
       },
-      "updatedAt": 1516554354241,
+      "updatedAt": 1516867497676,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3807,7 +4001,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72b2bceb736d2cd00a0872635642482b",
+        "contentDigest": "c306761eb2d92a004c148944f701681e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3821,7 +4015,7 @@
       "context": {
         "tag": "Conclusion"
       },
-      "updatedAt": 1516554354241,
+      "updatedAt": 1516867497677,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3830,7 +4024,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ea6e82c664ac0389af0c0813ffd03535",
+        "contentDigest": "018419e3e8a7185aa56b4040355a69f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3844,7 +4038,7 @@
       "context": {
         "tag": "Web Development"
       },
-      "updatedAt": 1516554354242,
+      "updatedAt": 1516867497681,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3853,7 +4047,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab76c849d8ba4915cf5625b5d9734f56",
+        "contentDigest": "beedb8c5a7e50b7fe7c0cbabcfa5da2d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3867,7 +4061,7 @@
       "context": {
         "tag": "share"
       },
-      "updatedAt": 1516554354242,
+      "updatedAt": 1516867497682,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
@@ -3876,7 +4070,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8aaf4499d9ef62521606c7e0eab3fbad",
+        "contentDigest": "1b0d3f7cc44025c63b56fedbff1e683f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3890,7 +4084,7 @@
       "context": {
         "category": "Conclusion"
       },
-      "updatedAt": 1516554354243,
+      "updatedAt": 1516867497678,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/category-template.js",
@@ -3899,7 +4093,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a5b87fd6d133281946fd67085972bb6",
+        "contentDigest": "7f04621e5ba05ff12912e50f07cb76a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3913,7 +4107,7 @@
       "context": {
         "slug": "/about"
       },
-      "updatedAt": 1516554354243,
+      "updatedAt": 1516867497679,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
@@ -3922,7 +4116,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "219a6691186e40498bd717ea7d10abf0",
+        "contentDigest": "ce85527c205f8edc918ebe8f4b8a84af",
         "owner": "internal-data-bridge"
       }
     },
@@ -3936,7 +4130,7 @@
       "context": {
         "slug": "/contact"
       },
-      "updatedAt": 1516554354244,
+      "updatedAt": 1516867497679,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "D:/personal/lumen-blog/src/templates/page-template.js",
@@ -3945,7 +4139,76 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c696ffd105f65e284ec8ee4ad3532450",
+        "contentDigest": "0ed88ed6849f32c9e97667d261c2da1d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/2016_essay/": {
+      "layout": "index",
+      "jsonName": "posts-2016-essay.json",
+      "internalComponentName": "ComponentPosts2016Essay",
+      "path": "/posts/2016_essay/",
+      "component": "D:/personal/lumen-blog/src/templates/post-template.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/posts/2016_essay/"
+      },
+      "updatedAt": 1516867497680,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "D:/personal/lumen-blog/src/templates/post-template.js",
+      "id": "SitePage /posts/2016_essay/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "386b55ed7690dc2e3d4abda8357d4b73",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/essay/": {
+      "layout": "index",
+      "jsonName": "tags-essay.json",
+      "internalComponentName": "ComponentTagsEssay",
+      "path": "/tags/essay/",
+      "component": "D:/personal/lumen-blog/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "essay"
+      },
+      "updatedAt": 1516867497681,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "D:/personal/lumen-blog/src/templates/tag-template.js",
+      "id": "SitePage /tags/essay/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "eb6c8413169065c81b86501e530b2b56",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/essay/": {
+      "layout": "index",
+      "jsonName": "categories-essay.json",
+      "internalComponentName": "ComponentCategoriesEssay",
+      "path": "/categories/essay/",
+      "component": "D:/personal/lumen-blog/src/templates/category-template.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "essay"
+      },
+      "updatedAt": 1516867497682,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "D:/personal/lumen-blog/src/templates/category-template.js",
+      "id": "SitePage /categories/essay/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b2afa1d59f95cc38db3a49f8a601fa9a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3957,7 +4220,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516554354266,
+      "updatedAt": 1516867497702,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -3966,7 +4229,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "97102e6ff3b8184a790c4e2987b1acf2",
+        "contentDigest": "a716d09c2ce6bc2b3fce0782c6aa0b48",
         "owner": "internal-data-bridge"
       }
     },
@@ -3978,7 +4241,7 @@
       "component": "D:/personal/lumen-blog/src/pages/categories.jsx",
       "componentChunkName": "component---src-pages-categories-jsx",
       "context": {},
-      "updatedAt": 1516554354267,
+      "updatedAt": 1516867497703,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/categories.jsx",
@@ -3987,7 +4250,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "03e44eb6cfc09e9bf4d496f27b35da67",
+        "contentDigest": "599287765b6d51f37bbf7458b7263cb5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3999,7 +4262,7 @@
       "component": "D:/personal/lumen-blog/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1516554354268,
+      "updatedAt": 1516867497703,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/index.jsx",
@@ -4008,7 +4271,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d51e9554536946d85aac3b4f936ced95",
+        "contentDigest": "50e7f1e2a1537c2790b8505237bdc834",
         "owner": "internal-data-bridge"
       }
     },
@@ -4020,7 +4283,7 @@
       "component": "D:/personal/lumen-blog/src/pages/tags.jsx",
       "componentChunkName": "component---src-pages-tags-jsx",
       "context": {},
-      "updatedAt": 1516554354269,
+      "updatedAt": 1516867497704,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/personal/lumen-blog/src/pages/tags.jsx",
@@ -4029,7 +4292,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d10337ed42a95eed4950101977ee727",
+        "contentDigest": "d8ac35a1ca229d8311da87621342edeb",
         "owner": "internal-data-bridge"
       }
     },
@@ -4041,7 +4304,7 @@
       "component": "D:/personal/lumen-blog/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1516554354270,
+      "updatedAt": 1516867497706,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "D:/personal/lumen-blog/src/pages/404.jsx",
@@ -4050,7 +4313,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e26c4e219025d8d575a180e39c13fd74",
+        "contentDigest": "eb0a6551face78287eec051a663d8587",
         "owner": "internal-data-bridge"
       }
     }
@@ -4074,7 +4337,10 @@
         "/categories/",
         "/",
         "/tags/",
-        "/404.html"
+        "/404.html",
+        "/tags/essay/",
+        "/posts/2016_essay/",
+        "/categories/essay/"
       ],
       "D:\\personal\\lumen-blog\\src\\pages\\articles\\2018-01-13---回顾2017\\index.md absPath of file >>> MarkdownRemark": [
         "/posts/2017_review/"
@@ -4084,6 +4350,9 @@
       ],
       "D:/personal/lumen-blog/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
         "/contact"
+      ],
+      "D:\\personal\\lumen-blog\\src\\pages\\articles\\2017-06-26--工作心情记录\\index.md absPath of file >>> MarkdownRemark": [
+        "/posts/2016_essay/"
       ]
     },
     "connections": {
@@ -4095,7 +4364,12 @@
         "/categories/conclusion/",
         "/categories/",
         "/",
-        "/tags/"
+        "/tags/",
+        "/tags/essay/",
+        "/categories/essay/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
       ]
     }
   }

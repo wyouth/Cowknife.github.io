@@ -63,6 +63,27 @@
         "path": "/contact"
     },
     {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-2016-essay.json",
+        "path": "/posts/2016_essay/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-essay.json",
+        "path": "/tags/essay/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-essay.json",
+        "path": "/categories/essay/"
+    },
+    {
         "componentChunkName": "component---src-pages-404-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
